@@ -4,7 +4,7 @@ on: push
 
 jobs:
   opentofu_test:
-    name: "Run OpenTofu tests isaac"
+    name: "Run OpenTofu tests"
     runs-on: ubuntu-latest
     permissions:                                                                
       id-token: write
