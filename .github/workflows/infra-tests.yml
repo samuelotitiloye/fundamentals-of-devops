@@ -28,3 +28,6 @@ jobs:
         run: |                                                                  
           tofu init -backend=false -input=false
           tofu test -verbose
+
+# arn:aws:iam::771936570821:oidc-provider/token.actions.githubusercontent.com
+# arn:aws:iam::771936570821:oidc-provider/token.actions.githubusercontent.com
