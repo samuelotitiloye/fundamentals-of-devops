@@ -3,4 +3,6 @@
 *.iml
 *.idea
 *.DS_Store
+*.key
+*.pem
 node_modules/
